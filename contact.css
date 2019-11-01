@@ -1,0 +1,52 @@
+#head-container {
+    background-image: url(./images/45degreee_fabric.png);
+    margin-top: 20px;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-bottom: 2px solid black
+}
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;;
+}
+.navbar {
+    margin-right: 150px;
+    margin-left: 150px;
+} 
+.jumbotron {
+    margin-top: 100px; 
+    margin-left: 90px;
+    margin-right: 90px;
+    overflow: hidden;
+    background-image: url(./images/45degreee_fabric.png);
+
+}
+h2 {
+    text-decoration-line: underline
+}
+body {
+    background-image: url(./images/blackwood-background_00313351.jpg)
+}
+#linkedin {
+    /* background-color: white; */
+    width: 150px;
+    height: 100px; 
+    margin-bottom: 20px;
+    /* border: 1px outset whitesmoke; */
+    /* padding: 1% */
+}
+#github {
+    width: 150px;
+    height: 100px; 
+    margin-bottom: 20px;
+    /* border: 1px outset whitesmoke; */
+}
+#pro_container {
+    display: inline-box;
+}
+#info_container {
+    display: inline-box;
+    margin-left: 50px
+}
+.h2 {
+    text-decoration-line: underline;
+}

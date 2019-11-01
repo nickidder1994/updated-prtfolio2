@@ -1,33 +1,121 @@
 #head-container {
-    background-color: black;
+    background-image: url(./images/45degreee_fabric.png);
     margin-top: 20px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 90px;
+    margin-right: 90px;
     border-bottom: 2px solid black
 }
-h1 {
-    color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;;
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    text-decoration-line: underline
+}
+.head_mern_container {
+    margin-left: 500px; 
 }
 .navbar {
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 90px;
+    margin-left: 90px;
 } 
 .jumbotron {
-    margin-top: 20px; 
+    margin-top: 100px; 
     margin-left: 90px;
     margin-right: 90px;
     overflow: hidden;
-    color: black;
+    background-image: url(./images/45degreee_fabric.png);
+
 }
 h2 {
-    color: whitesmoke;
     text-decoration-line: underline
 }
-p {
-    color: whitesmoke;
+body {
+    background-image: url(./images/blackwood-background_00313351.jpg)
 }
-.footer {
+p {
+    
+}
+.mern_container {
+    margin-top: 50px;
+    /* margin-left: 200px; */
+    margin-right: 200px
+}
+#mongo {
+    width: 115px;
+    height: 90px; 
+    margin-bottom: 20px;
+    
+}
+#mysql {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#express {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#react {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+    /* border: 1px outset black  */
+}
+#node {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#frontend {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#bootstrap {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#materialize {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#jquery {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#handlebars {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#firebase {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+#ajax {
+    width: 115px;
+    height: 90px;
+    margin-bottom: 20px;
+   
+}
+.h2 {
+    text-decoration-line: underline
+}
+
+/* .footer {
         height: 50px;
         background-color: black;
         position: absolute;
@@ -35,4 +123,5 @@ p {
         left: 0;
         bottom: 0;
         border-top: solid 8px black;
-}
+        margin-block-start: 0psx
+} */
