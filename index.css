@@ -23,16 +23,12 @@
     margin-right: 90px;
     overflow: hidden;
     background-image: url(./images/45degreee_fabric.png);
-
 }
 h2 {
     text-decoration-line: underline
 }
 body {
     background-image: url(./images/blackwood-background_00313351.jpg)
-}
-p {
-    
 }
 .mern_container {
     margin-top: 50px;

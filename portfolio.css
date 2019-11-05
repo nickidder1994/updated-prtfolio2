@@ -1,35 +1,29 @@
 #head-container {
-    background-color: black;
+    background-image: url(./images/45degreee_fabric.png);
     margin-top: 20px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 90px;
+    margin-right: 90px;
     border-bottom: 2px solid black
 }
-h1 {
-    color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;;
+.h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+    text-decoration-line: underline
 }
 .navbar {
-    margin-right: 150px;
-    margin-left: 150px;
+    margin-right: 90px;
+    margin-left: 90px;
 } 
+body {
+    background-image: url(./images/blackwood-background_00313351.jpg)
+}
+h2 {
+    text-decoration-line: underline
+}
 .jumbotron {
-    margin-top: 20px; 
+    margin-top: 100px; 
     margin-left: 90px;
     margin-right: 90px;
     overflow: hidden;
-    color: black;
-}
-h2 {
-    color: whitesmoke;
-    text-decoration-line: underline
-}
-.footer {
-    height: 50px;
-    background-color: black;
-    position: absolute;
-    right: 0;
-    left: 0;
-    bottom: 0;
-    border-top: solid 8px black;
+    background-image: url(./images/45degreee_fabric.png);
 }

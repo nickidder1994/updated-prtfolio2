@@ -40,12 +40,12 @@ body {
     margin-bottom: 20px;
     /* border: 1px outset whitesmoke; */
 }
-#pro_container {
-    display: inline-box;
-}
 #info_container {
-    display: inline-box;
-    margin-left: 50px
+    display: inline-block
+}
+#link {
+    display: inline-block;
+    /* margin-left: 50px */
 }
 .h2 {
     text-decoration-line: underline;
