@@ -25,15 +25,20 @@
     background-image: url(./images/45degreee_fabric.png);
 }
 h2 {
-    text-decoration-line: underline
+    text-decoration-line: underline;
+    margin-left: 410px ;
 }
 body {
     background-image: url(./images/blackwood-background_00313351.jpg)
 }
 .mern_container {
     margin-top: 50px;
-    /* margin-left: 200px; */
-    margin-right: 200px
+    margin-left: 200px;
+    /* margin-right: 200px */
+}
+.other_container {
+    margin-top: 50px;
+    margin-left: 200px;
 }
 #mongo {
     width: 115px;
@@ -108,19 +113,22 @@ body {
    
 }
 .h2 {
-    text-decoration-line: underline
+    text-decoration-line: underline;
+    margin-left: 250px;
 }
 .profile {
-    width: 160px;
-    height: 160px;
+    width: 165px;
+    height: 180px;
+    float: left;
     /* display: inline-block;
     flex-direction:column; */
     display: inline-flex;
-    border-radius: 50%;
 }
 p {
  /* margin-left: 150px; */
  display: inline-flex;
+ word-break: break-all;
+ float: top
 }
 
 /* .footer {
