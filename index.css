@@ -26,110 +26,83 @@
 }
 h2 {
     text-decoration-line: underline;
-    margin-left: 410px ;
 }
 body {
     background-image: url(./images/blackwood-background_00313351.jpg)
 }
-.mern_container {
-    margin-top: 50px;
-    margin-left: 200px;
-    /* margin-right: 200px */
-}
-.other_container {
-    margin-top: 50px;
-    margin-left: 200px;
-}
 #mongo {
-    width: 115px;
-    height: 90px; 
-    margin-bottom: 20px;
-    
+    width: 50px;
+    height: 35px; 
+    margin-left: 25px;
 }
 #mysql {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
    
 }
 #express {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #react {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-    /* border: 1px outset black  */
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #node {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #frontend {
     width: 115px;
     height: 90px;
-    margin-bottom: 20px;
+    margin-left: 25px;
    
 }
 #bootstrap {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #materialize {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #jquery {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #handlebars {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #firebase {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 #ajax {
-    width: 115px;
-    height: 90px;
-    margin-bottom: 20px;
-   
+    width: 50px;
+    height: 35px;
+    margin-left: 25px;
 }
 .h2 {
     text-decoration-line: underline;
     margin-left: 250px;
 }
 .profile {
-    width: 165px;
-    height: 180px;
+    width: 185px;
+    height: 200px;
+    display: inline;
     float: left;
-    /* display: inline-block;
-    flex-direction:column; */
-    display: inline-flex;
-}
-p {
- /* margin-left: 150px; */
- display: inline-flex;
- word-break: break-all;
- float: top
-}
+   padding-right: 50px; 
+} 
 
 /* .footer {
         height: 50px;
