@@ -5,8 +5,8 @@
     margin-right: 90px;
     border-bottom: 2px solid black
 }
-.h1 {
-    font-family: Arial, Helvetica, sans-serif;
+h1 {
+    font-family: 'Alfa Slab One';font-size: 22px;
     margin-left: 50px;
     text-decoration-line: underline
 }
@@ -26,91 +26,82 @@
 }
 h2 {
     text-decoration-line: underline;
+    font-family: 'Alfa Slab One';font-size: 22px;
 }
 body {
-    background-image: url(./images/blackwood-background_00313351.jpg)
+    background-image: url(./images/photo-1453928582365-b6ad33cbcf64.jpeg)
 }
 #mongo {
     width: 50px;
     height: 35px; 
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #mysql {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
    
 }
 #express {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #react {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #node {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #frontend {
     width: 115px;
     height: 90px;
-    margin-left: 25px;
+    margin-left: 35px;
    
 }
 #bootstrap {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #materialize {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #jquery {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #handlebars {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #firebase {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 #ajax {
     width: 50px;
     height: 35px;
-    margin-left: 25px;
+    margin-left: 35px;
 }
 .h2 {
     text-decoration-line: underline;
     margin-left: 250px;
 }
 .profile {
-    width: 185px;
+    width: 190px;
     height: 200px;
     display: inline;
     float: left;
    padding-right: 50px; 
 } 
 
-/* .footer {
-        height: 50px;
-        background-color: black;
-        position: absolute;
-        right: 0;
-        left: 0;
-        bottom: 0;
-        border-top: solid 8px black;
-        margin-block-start: 0psx
-} */
