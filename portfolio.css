@@ -29,23 +29,52 @@ h2 {
     background-image: url(./images/45degreee_fabric.png);
 }
 #crystals {
-    width: 180px;
+    width: 285px;
     height: 180px;
     display: inline;
     float: left;
+    border-radius: 2%;
 }
 #hangman {
-    width: 180px;
+    width: 285px;
     height: 180px;
-    margin-left: 40px;
     display: inline;
-    float: left
+    float: left;
+    border-radius: 2%;
 }
 #giphy {
-    width: 180px;
+    width: 285px;
     height: 180px;
-    margin-left: 40px;
     display: inline;
-    float: left
+    float: left;
+    border-radius: 2%;
 }
+#trivia {
+    width: 285px;
+    height: 180px;
+    display: inline;
+    float: left;
+    border-radius: 2%;
+}
+#cc-card {
+    margin-left: 20px;
+    display: inline;
+    float: left;
+}
+#hh-card {
+    margin-left: 20px;
+    display: inline;
+    float: left;
+}
+#giphy-card {
+    margin-left: 20px;
+    display: inline;
+    float: left;
+}
+#trivia-card {
+    margin-left: 20px;
+    display: inline;
+    float: left;
+}
+
 
