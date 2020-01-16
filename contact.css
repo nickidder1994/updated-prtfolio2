@@ -6,7 +6,7 @@
     border-bottom: 2px solid black
 }
 .h1 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Alfa Slab One';font-size: 22px;
     margin-left: 50px;
     text-decoration-line: underline
 }
@@ -23,10 +23,11 @@
 
 }
 h2 {
-    text-decoration-line: underline
+    text-decoration-line: underline;
+    font-family: 'Alfa Slab One';font-size: 22px;
 }
 body {
-    background-image: url(./images/blackwood-background_00313351.jpg)
+    background-image: url(./images/photo-1453928582365-b6ad33cbcf64.jpeg)
 }
 #linkedin {
     /* background-color: white; */
@@ -51,4 +52,8 @@ body {
 }
 .h2 {
     text-decoration-line: underline;
+    font-family: 'Alfa Slab One';font-size: 22px;
+}
+.h3 {
+    font-family: 'Alfa Slab One';font-size: 22px;
 }
